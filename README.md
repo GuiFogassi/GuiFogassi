@@ -21,13 +21,13 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na PUCRS, 
   - **Java**: Conhecimento básico.
 
 ## Ferramentas
-- **Ferramentas**: Git, GitHub, Visual Studio, VSCode, Intellij
+- Git, GitHub, Visual Studio, VSCode, Intellij
 
 Estou sempre aberto a novos desafios e oportunidades para contribuir com projetos inovadores. Se você está interessado em discutir possíveis colaborações ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
 
 ## Contato
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/guilherme-fogassi/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/guilherme-fogassi)
 - **Email**: [guilherme@guilhermerosa.com](mailto:guilherme@guilhermerosa.com)
 
 Obrigado por visitar meu perfil! 🚀
