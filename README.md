@@ -1,31 +1,50 @@
-# Olá, eu sou Gui Fogassi 👋
+# Guilherme Fogassi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme@guilhermerosa.com)
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor de software em constante aprendizado, em busca de novas oportunidades para aplicar e expandir meus conhecimentos.
+## 👨‍💻 Sobre Mim
+Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas na PUCRS. 
+Apaixonado por criar soluções tecnológicas e sempre em busca de novos desafios.
 
-## Sobre Mim
+## 🚀 Tecnologias & Habilidades
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na PUCRS, o que tem sido fundamental para aprofundar meus conhecimentos e habilidades na área de tecnologia. Desde o final de 2022, tenho me dedicado aos estudos e prática de programação, focando tanto no desenvolvimento frontend quanto backend.
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Meus Pontos Fortes
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- **Frontend**:
-  - **JavaScript**: Para criar interfaces dinâmicas e interativas.
-  - **React.js**: Atualmente estudando e aprimorando minhas habilidades com esta biblioteca.
-  - **CSS e HTML**: Habilidades sólidas em estilização e estruturação de páginas web.
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- **Backend**:
-  - **Node.js**: Maior conhecimento em desenvolvimento de servidores e APIs.
-  - **C#**: Familiaridade com a linguagem e seu uso em desenvolvimento de aplicações.
-  - **Java**: Conhecimento básico.
+## 📊 Estatísticas GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiFogassi&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFogassi&layout=compact&theme=dracula)
 
-## Ferramentas
-- Git, GitHub, VSCode, Intellij
+## 🎯 Projetos em Destaque
+### [Bikcraft](link-do-projeto)
+Site de venda de bicicletas customizadas desenvolvido com HTML, CSS e JavaScript.
+- Responsivo
+- Design moderno
+- Formulários interativos
 
-Estou sempre aberto a novos desafios e oportunidades para contribuir com projetos inovadores. Se você está interessado em discutir possíveis colaborações ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
+## 📚 Atualmente Estudando
+- React.js Avançado
+- Node.js com Express
+- Arquitetura de Software
 
-## Contato
+## 💡 Objetivos 2025
+- [ ] Contribuir em projetos open source
+- [ ] Aprofundar conhecimentos em React
+- [ ] Aprofundar conhecimentos TypeScript
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/guilherme-fogassi)
-- **Email**: [guilherme@guilhermerosa.com](mailto:guilherme@guilhermerosa.com)
-
-Obrigado por visitar meu perfil! 🚀
+## 📫 Contato
+- Email: guilemos72@gmail.com
+- LinkedIn: [Gui Fogassi](https://www.linkedin.com/in/guilherme-fogassi/)
