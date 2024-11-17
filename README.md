@@ -1,6 +1,6 @@
 # Guilherme Fogassi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme@guilhermerosa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/guilherme-fogassi/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilemos72@gmail.com)
 
 ## 👨‍💻 Sobre Mim
 Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas na PUCRS. 
