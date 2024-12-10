@@ -3,8 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilemos72@gmail.com)
 
 ## 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas na PUCRS. 
-Apaixonado por criar soluções tecnológicas e sempre em busca de novos desafios.
+Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas na PUCRS.
 
 ## 🚀 Tecnologias & Habilidades
 
@@ -25,7 +24,6 @@ Apaixonado por criar soluções tecnológicas e sempre em busca de novos desafio
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📊 Estatísticas GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiFogassi&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFogassi&layout=compact&theme=dracula)
 
 ## 🎯 Projetos em Destaque
@@ -36,7 +34,7 @@ Site de venda de bicicletas customizadas desenvolvido com HTML, CSS e JavaScript
 - Formulários interativos
 
 ## 📚 Atualmente Estudando
-- React.js Avançado
+- React.js
 - Node.js com Express
 - Arquitetura de Software
 
