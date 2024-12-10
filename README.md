@@ -24,7 +24,7 @@ Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de S
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFogassi&layout=compact&theme=dracula)
 
 ## 🎯 Projetos em Destaque
-### [Bikcraft]([https://project-bikcraft.vercel.app/])
+### [Bikcraft](https://project-bikcraft.vercel.app/)
 Site de venda de bicicletas customizadas desenvolvido com HTML, CSS e JavaScript.
 - Responsivo
 - Design moderno
