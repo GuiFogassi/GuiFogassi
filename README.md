@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilemos72@gmail.com)
 
 ## 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas na PUCRS.
 
 ## 🚀 Tecnologias & Habilidades
 
