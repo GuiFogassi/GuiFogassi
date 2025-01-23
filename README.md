@@ -34,13 +34,12 @@ Olá! Sou um desenvolvedor de software apaixonado por criar soluções que impac
   [Ver certificado](https://origamid.com/certificate/da395138)  
 ### HTML e CSS para Iniciantes
 - **Origamid** - HTML e CSS para Iniciantes (46 horas)  
-  [Ver certificado](https://origamid.com/certificate/003cf16d)  
+  [Ver certificado](https://www.origamid.com/certificate/b03cf16d)  
 ### UI Design para Iniciantes
 - **Origamid** - UI Design para Iniciantes (34 horas)  
   [Ver certificado](https://origamid.com/certificate/00337a0b)  
 ### Algoritmos e Lógica de Programação
-- **Udemy** - Algoritmos e Lógica de Programação (30,5 horas)  
-  [Ver certificado](https://ude.my/UC-aa7ab200-2d35-45ca-ac64-e44fe27e719e)  
+- **Udemy** - Algoritmos e Lógica de Programação (30,5 horas)    
 ### Inglês (EF SET)
 - **EF SET** - Nível B2 Independente (51/100)  
   [Ver certificado](https://cert.efset.org/pt/1YY99m)  
@@ -56,7 +55,7 @@ Site de venda de bicicletas customizadas desenvolvido com HTML, CSS e JavaScript
 - **Funcionalidades**: Design responsivo, formulários interativos, animações CSS.
 - [Código no GitHub](https://github.com/GuiFogassi/bikcraft)
 
-### [Animais Fantásticos](https://github.com/GuiFogassi/animals)
+### [Animais Fantásticos](https://guifogassi.github.io/animals/)
 Projeto de estudo focado em JavaScript avançado e manipulação do DOM.
 - **Tecnologias**: JavaScript (ES6+), Webpack, Babel.
 - **Funcionalidades**: Menu dropdown, galeria de imagens, FAQ com acordeão.
